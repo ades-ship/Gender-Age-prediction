@@ -1,19 +1,19 @@
 # gender-age-prediction
-deep learning project using ### cnn
+deep learning project using ##`cnn`
 
 A gender-age prediction deep learning project involves building a machine learning model that can accurately predict the age and gender of a person from their image or video. It can be applied in various fields, including facial recognition systems, targeted advertising, and security systems.
 
 To create a gender-age prediction deep learning project, you can follow these steps:
 
-Data Collection: Collect a dataset of images or videos of people's faces, along with their age and gender labels. You can use publicly available datasets or create your own by collecting images from the internet or by taking pictures of people.
+### `Data Collection`: Collect a dataset of images or videos of people's faces, along with their age and gender labels. You can use publicly available datasets or create your own by collecting images from the internet or by taking pictures of people.
 
-Data Preprocessing: Preprocess the collected data by resizing the images to a common size, normalizing the pixel values, and separating the dataset into training and validation sets.
+### `Data Preprocessing`: Preprocess the collected data by resizing the images to a common size, normalizing the pixel values, and separating the dataset into training and validation sets.
 
-Model Selection: Select a deep learning model that can effectively extract features from the images and make accurate age and gender predictions. Examples of such models include VGGNet, ResNet, and Inception.
+### Model Selection: Select a deep learning model that can effectively extract features from the images and make accurate age and gender predictions. Examples of such models include VGGNet, ResNet, and Inception.
 
-Model Training: Train the selected model on the preprocessed data using a suitable optimization algorithm, such as Stochastic Gradient Descent (SGD) or Adam.
+### Model Training: Train the selected model on the preprocessed data using a suitable optimization algorithm, such as Stochastic Gradient Descent (SGD) or Adam.
 
-Model Evaluation: Evaluate the trained model's performance on the validation set by calculating metrics such as accuracy, precision, recall, and F1-score.
+### Model Evaluation: Evaluate the trained model's performance on the validation set by calculating metrics such as accuracy, precision, recall, and F1-score.
 
 Model Testing: Test the trained model on new, unseen data to see how well it generalizes to new images.
 
