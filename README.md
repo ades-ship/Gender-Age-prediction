@@ -4,7 +4,7 @@ deep learning project using ##`cnn`
 A gender-age prediction deep learning project involves building a machine learning model that can accurately predict the age and gender of a person from their image or video. It can be applied in various fields, including facial recognition systems, targeted advertising, and security systems.
 
 To create a gender-age prediction deep learning project, you can follow these steps:
-### `Dataset` used here is :
+### `Dataset` used here is : https://www.kaggle.com/datasets/jangedoo/utkface-new
 
 ### `Data Collection`: Collect a dataset of images or videos of people's faces, along with their age and gender labels. You can use publicly available datasets or create your own by collecting images from the internet or by taking pictures of people.
 
@@ -21,5 +21,5 @@ To create a gender-age prediction deep learning project, you can follow these st
 ### `Deployment`: Deploy the trained model as a web application, API, or mobile app, depending on the project's requirements.
 
 Some additional considerations for a gender-age prediction deep learning project include handling biases in the data, dealing with missing labels or noisy data, and optimizing the model's performance by tuning hyperparameters such as learning rate, batch size, and number of epochs.
-
+### 'Application Usage'
 Overall, a gender-age prediction deep learning project can be a useful tool in various applications, such as personalized advertising, social media analytics, and facial recognition systems. By accurately predicting a person's age and gender from their image or video, the model can enable more targeted and efficient decision-making.
