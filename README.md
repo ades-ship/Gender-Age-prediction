@@ -12,7 +12,7 @@ To create a gender-age prediction deep learning project, you can follow these st
 
 ### `Model Selection`: Select a deep learning model that can effectively extract features from the images and make accurate age and gender predictions. Examples of such models include VGGNet, ResNet, and Inception.
 
-### `Model Training`: Train the selected model on the preprocessed data using a suitable optimization algorithm, such as Stochastic Gradient Descent (SGD) or Adam.
+### `Model Training`: Train the selected model on the preprocessed data using a suitable optimization algorithm, such as Convolutional Neural Network (CNN).
 
 ### `Model Evaluation`: Evaluate the trained model's performance on the validation set by calculating metrics such as accuracy, precision, recall, and F1-score.
 
@@ -20,6 +20,6 @@ To create a gender-age prediction deep learning project, you can follow these st
 
 ### `Deployment`: Deploy the trained model as a web application, API, or mobile app, depending on the project's requirements.
 
-Some additional considerations for a gender-age prediction deep learning project include handling biases in the data, dealing with missing labels or noisy data, and optimizing the model's performance by tuning hyperparameters such as learning rate, batch size, and number of epochs.
+## Some additional considerations for a gender-age prediction deep learning project include handling biases in the data, dealing with missing labels or noisy data, and optimizing the model's performance by tuning hyperparameters such as learning rate, batch size, and number of epochs.
 ### 'Application Usage'
-Overall, a gender-age prediction deep learning project can be a useful tool in various applications, such as personalized advertising, social media analytics, and facial recognition systems. By accurately predicting a person's age and gender from their image or video, the model can enable more targeted and efficient decision-making.
+## Overall, a gender-age prediction deep learning project can be a useful tool in various applications, such as personalized advertising, social media analytics, and facial recognition systems. By accurately predicting a person's age and gender from their image or video, the model can enable more targeted and efficient decision-making.
